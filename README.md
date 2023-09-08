@@ -1573,5 +1573,5 @@ FROM Customers WHERE AccountSum >= 3000;
 
 ------------------------------
 
-![image]([https://gb.ru/certificates/2401163])
+![Сертификат SQL](https://github.com/AlgosStile/MSQL/blob/main/12345678.png)
 
